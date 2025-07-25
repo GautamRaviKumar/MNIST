@@ -1,1 +1,1 @@
-# MNIST
+# A simple MNIST Digit Recognizer
